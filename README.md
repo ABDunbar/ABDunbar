@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABDunbar
 - 👀 I’m interested in probability, statistics and machine learning as it applies to geophysics
-- 🌱 I’m currently learning how to quantify uncertainty using nonparametric data distributions
+- 🌱 I’m currently learning how to quantify uncertainty with nonparametric data distributions
 
 
 <!---
